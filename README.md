@@ -1,4 +1,4 @@
-# Portfolio Project Setup – DIQI
+# Portfolio Project Setup – Diqi Hadiq
 
 ## Tools Installed
 
